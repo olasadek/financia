@@ -2,7 +2,7 @@
 
 Financia is a secure, privacy-first financial tracking application that helps you manage your expenses, subscriptions, merchants, and savings goals—all with a modern, accessible interface. Built with FastAPI (Python) and React (JavaScript), Financia ensures your data stays on your device, giving you full control and peace of mind.
 
-<<<<<<< HEAD
+
 ## 🚀 Features
 - **Local-First Privacy:** All data is stored and processed locally. No cloud storage or third-party data sharing.
 - **Expense Management:** Add, edit, and delete expenses with category and merchant tracking.
