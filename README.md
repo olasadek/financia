@@ -20,7 +20,7 @@ Financia is a secure, privacy-first financial tracking application that helps yo
 - Modern, accessible UI with dark blue theme
 - Responsive and PWA-ready
 - Dockerized for easy deployment
->>>>>>> 2d838b4202af10a36636efa25c6e356218e96afe
+
 
 ## 🛡️ Privacy & Security
 - **Your Data, Your Device:** All financial data is stored and processed locally. No data leaves your device unless you choose to export it.
@@ -75,18 +75,14 @@ Financia uses GitHub Actions for continuous integration:
 - Workflow file: `.github/workflows/ci.yml`
 - Runs on every push and pull request to `main`
 
-<<<<<<< HEAD
+
 ## 📝 Customization
 - **Login Background:** Replace `frontend/public/image.png` with your own image.
 - **Styling:** All UI is styled for clarity and accessibility. Adjust styles in the `src/` components as needed.
 
-## 📄 License
-MIT
-
----
 
 **Financia: Your finances, your privacy, your control.** 
 =======
 ## License
 MIT 
->>>>>>> 2d838b4202af10a36636efa25c6e356218e96afe
+
