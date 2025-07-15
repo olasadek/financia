@@ -2,6 +2,7 @@
 
 Financia is a secure, privacy-first financial tracking application that helps you manage your expenses, subscriptions, merchants, and savings goals—all with a modern, accessible interface. Built with FastAPI (Python) and React (JavaScript), Financia ensures your data stays on your device, giving you full control and peace of mind.
 
+<<<<<<< HEAD
 ## 🚀 Features
 - **Local-First Privacy:** All data is stored and processed locally. No cloud storage or third-party data sharing.
 - **Expense Management:** Add, edit, and delete expenses with category and merchant tracking.
@@ -12,6 +13,14 @@ Financia is a secure, privacy-first financial tracking application that helps yo
 - **PWA Ready:** Works great on desktop and mobile browsers.
 - **Dockerized:** Easy to deploy and run anywhere.
 - **CI/CD Pipeline:** Automated build, lint, and Docker checks on every push and pull request via GitHub Actions.
+=======
+## Features
+- Secure, local-first data (no cloud storage)
+- Expense, category, merchant, subscription, and savings goal management
+- Modern, accessible UI with dark blue theme
+- Responsive and PWA-ready
+- Dockerized for easy deployment
+>>>>>>> 2d838b4202af10a36636efa25c6e356218e96afe
 
 ## 🛡️ Privacy & Security
 - **Your Data, Your Device:** All financial data is stored and processed locally. No data leaves your device unless you choose to export it.
@@ -66,6 +75,7 @@ Financia uses GitHub Actions for continuous integration:
 - Workflow file: `.github/workflows/ci.yml`
 - Runs on every push and pull request to `main`
 
+<<<<<<< HEAD
 ## 📝 Customization
 - **Login Background:** Replace `frontend/public/image.png` with your own image.
 - **Styling:** All UI is styled for clarity and accessibility. Adjust styles in the `src/` components as needed.
@@ -76,3 +86,7 @@ MIT
 ---
 
 **Financia: Your finances, your privacy, your control.** 
+=======
+## License
+MIT 
+>>>>>>> 2d838b4202af10a36636efa25c6e356218e96afe
