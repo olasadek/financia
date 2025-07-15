@@ -5,7 +5,6 @@ A secure, privacy-first financial tracking app with AI features, built with Fast
 ## Features
 - Secure, local-first data (no cloud storage)
 - Expense, category, merchant, subscription, and savings goal management
-- Graph-based spending visualization (coming soon)
 - Modern, accessible UI with dark blue theme
 - Responsive and PWA-ready
 - Dockerized for easy deployment
